@@ -1,5 +1,14 @@
 <!DOCTYPE html>
 <html>
+<style>
+body {
+    background-color: linen;
+}
+h2 {
+    color: maroon;
+    margin-left: 40px;
+} 
+</style>
 <body>
 
 <?php
